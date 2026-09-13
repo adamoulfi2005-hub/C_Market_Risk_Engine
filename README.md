@@ -8,4 +8,4 @@
 - Projet 1 : project_rendements (Calcul de rendements, moyenne, écart-type à partir d'une série de prix).
 - Projet 2 : project_muller (Générateur aléatoire uniforme et gaussien (Box-Muller)).
 - Projet 3 : project_simulateur (Simulation Monte Carlo par mouvement brownien géométrique).
-- Project 4 : project_var *EN COURS* (Value-at-Risk et Conditional VaR sur la distribution simulée).
+- Project 4 : project_var (Value-at-Risk et Conditional VaR sur la distribution simulée).
