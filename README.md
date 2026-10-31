@@ -1,5 +1,5 @@
 # C_Market_Risk_Engine
-  Moteur de risk management construit de zéro en C : simulation Monte Carlo, calcul de VaR et CVaR, sans bibliothèque de calcul externe.
+  Moteur de risk management construit de zéro en C : simulation Monte Carlo, calcul de VaR et CVaR.
 
 # Pourquoi ce Repo ?
   Je souhaite m'orienter vers le Risk Management en finance de marché. Plutôt que de rester sur la théorie, j'ai voulu implémenter moi-même les outils de base du métier dans un langage de bas niveau qui force la compréhension de chaque étape du calcul.
